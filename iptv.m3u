@@ -17,6 +17,8 @@ http://live.flixhub.net/hls/mnx-hd.m3u8
 http://live.flixhub.net/hls/bindass.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [2]
 http://live.flixhub.net/hls/starplus.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [3]
+http://103.166.253.222/hls/starplus.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [1]
 http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
