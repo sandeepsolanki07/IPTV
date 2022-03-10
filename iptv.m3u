@@ -1,188 +1,207 @@
 #EXTM3U
 #SOURCEIT
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="Flixhub", Star Movies HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0rFA2Cx.png" group-title="English", Star Movies HD [2]
 http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K8YUMMt.png" group-title="Flixhub", Star World HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K8YUMMt.png" group-title="English", Star World HD [2]
 http://live.flixhub.net/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uV8cQ94.png" group-title="Flixhub", Sony Pix HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uV8cQ94.png" group-title="English", Sony Pix HD [2]
 http://live.flixhub.net/hls/sonypixhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4cUraZk.png" group-title="Flixhub", Movies Now HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4cUraZk.png" group-title="English", Movies Now HD [2]
 http://live.flixhub.net/hls/movies-now.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iA4v1yN.png" group-title="Flixhub", MN+ HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iA4v1yN.png" group-title="English", MN+ HD [2]
 http://live.flixhub.net/hls/mn+.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/msSkZ5F.png" group-title="Flixhub", MNX HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/msSkZ5F.png" group-title="English", MNX HD [2]
 http://live.flixhub.net/hls/mnx-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSn4Daf.png" group-title="Flixhub", Bindaass [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZSn4Daf.png" group-title="Music", Bindaass [2]
 http://live.flixhub.net/hls/bindass.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Entertainment", Star Plus HD FH
 http://live.flixhub.net/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Entertainment", Star Plus HD IP
 http://103.166.253.222/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="earth",food food
+#EXTINF:-1 tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/food_food_in.jpg" group-title="Infotainment",food food
 https://m-c07-j2apps.s.llnwi.net/hls/7005.FoodFoodChannel.in.m3u8
 
-#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Epic.png?raw=true" group-title="earth",epic 
+#EXTINF:-1 tvg-logo="https://github.com/maddy-mad/TV_Logos/blob/master/India/Epic.png?raw=true" group-title="Entertainment",epic 
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Flixhub", Star Plus HD [1]
-http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/x2qwIpL.png" group-title="Flixhub", Sony HD [2]
-http://live.flixhub.net/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Flixhub", Colors HD [2]
-http://live.flixhub.net/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Flixhub", &Pictures HD [2]
-http://live.flixhub.net/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Flixhub", Zee Cinema HD [2]
-http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Flixhub", Star Gold HD [2]
-http://live.flixhub.net/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/G0fh0PU.png" group-title="Flixhub", Star Gold2 [2]
-http://live.flixhub.net/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Flixhub", Sony Max [2]
-http://live.flixhub.net/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Flixhub", Sony Max HD [2]
-http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Flixhub", Colors Cineplex HD [2]
-http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Flixhub", Zee TV HD [2]
-http://live.flixhub.net/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nDLjaDL.png" group-title="Flixhub", Utv Action [2]
-http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Flixhub", Zoom [2]
-http://live.flixhub.net/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Hindi Movies", UTV Movies
-http://live.flixhub.net/hls/utv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English Documentry", Discovery Science English
-http://live.flixhub.net/hls/dis-science.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="English Documentry", Travel XP SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uQ4iijb.png" group-title="Documentary", NASA TV  (akamai)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/daMmAUf.png"  group-title="Documentary",Sony BBC Earth (jio)
+http://125.209.88.166:45793/BRN/BBCEarthHD.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Txphd_logo_2015.png"  group-title="Documentary",TravelXP 
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movie",Manuranjon Grand
-http://14.199.164.20:4001/play/a0m2/index.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="News",CNBC 18 (akamai)
+https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_4_av-p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Kids", Cartoon Network English
+#EXTINF:-1 tvg-logo="https://i.ndtvimg.com/i/2014-12/ndtv24x7_640x480_71419357330.jpg" group-title="News", NDTV 24x7 (akamai)
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Cartoon",Disney Channel (BDCable)
+http://jupiter.bdcabletv.com/Disney_jr-ENC/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Cartoon", Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Entertainment", Star Plus HD [1]
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/x2qwIpL.png" group-title="Entertainment", Sony HD [2]
+http://live.flixhub.net/hls/sonyen.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Entertainment", Colors HD [2]
+http://live.flixhub.net/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8u8TbPx.png" group-title="Movies", &Pictures HD [2]
+http://live.flixhub.net/hls/andpictures.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movies", Zee Cinema HD [2]
+http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movies", Star Gold HD [2]
+http://live.flixhub.net/hls/stargold.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0fh0PU.png" group-title="Movies", Star Gold2 [2]
+http://live.flixhub.net/hls/stargold2hd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Movies", Sony Max [2]
+http://live.flixhub.net/hls/sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9056B1t.png" group-title="Movies", Sony Max HD [2]
+http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KRjdRnV.png" group-title="Movies", Colors Cineplex HD [2]
+http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Entertainment", Zee TV HD [2]
+http://live.flixhub.net/hls/zeetv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nDLjaDL.png" group-title="Movies", Utv Action [2]
+http://live.flixhub.net/hls/utvaction.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wRc0YAb.png" group-title="Music", Zoom [2]
+http://live.flixhub.net/hls/zoom.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AnkD43r.png" group-title="Movies", UTV Movies
+http://live.flixhub.net/hls/utv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentry", Discovery Science English
+http://live.flixhub.net/hls/dis-science.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Documentry", Travel XP SD
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Om9inz6.png" group-title="Cartoon", Cartoon Network English
 #http://rv.flysat.live:80/ams/ams123/83600
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Info",44.Travel XP HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="Infotainment",44.Travel XP HD Bangla
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="MUSIC",Music India
+#EXTINF:-86 tvg-logo="https://i.imgur.com/DJhTTmR.png" group-title="Music",Music India
 #http://103.159.4.38:5868/MUSIC-3/tracks-v1a1/mono.m3u8
 #https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/86
 #http://rv.flysat.live:80/ams/ams123/83647
 http://14.199.164.20:4001/play/a0mt/index.m3u8
 
-#EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="MUSIC",ICC_9XM
+#EXTINF:-83 tvg-logo="https://s4.gifyu.com/images/image86b5f8b135364512.png" group-title="Music",ICC_9XM
 #http://103.205.133.40/hls/9xm.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/306
 #http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 
-#EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="MUSIC",M-Tunes
+#EXTINF:-87 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/M_Tunes_HD_logo.png" group-title="Music",M-Tunes
 http://14.199.164.20:4001/play/a0p2/index.m3u8
 
-#EXTINF:-89 group-title="MUSIC"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
+#EXTINF:-89 group-title="Music"tvg-logo="http://logo.ddnb.tn/logochanel/1732.png",B4U Music
 #http://14.199.164.20:4001/play/a0wk/index.m3u8
 #http://30.30.30.30/live/skyfeed1026/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 
-#EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="MUSIC",Music Mastii
+#EXTINF:-87 tvg-logo="https://i.imgur.com/HH5n3Ua.jpg" group-title="Music",Music Mastii
 #http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #http://tv.gadgetvaly.com:8880/bulbul/ASrlj2sBry/130
 http://14.199.164.20:4001/play/a0my/index.m3u8
 
-#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movie",Box Cinema
+#EXTINF:0 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" group-title="Movies",Box Cinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Movie",Bflix Movies
+#EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg" group-title="Movies",Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Movie",LOTUS TV Tamil
+#EXTINF:-1 tvg-logo="" group-title="Movies",LOTUS TV Tamil
 http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
 
-#EXTINF:0 tvg-id="SonyPIX.in" group-title="English Movie",Fox Movie
+#EXTINF:0 tvg-id="SonyPIX.in" group-title="English",Fox Movie
 http://93.157.62.180:80/FoxMovies/index.m3u8
 
-#EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English Movie",HBO
+#EXTINF:-117 tvg-logo="https://i.imgur.com/L8LTymM.jpg" group-title="English",HBO
 #http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #http://58.65.194.14:1935/live/MotorvisionHD.stream/playlist.m3u8
 #http://50.7.61.148:30080/Entry/hbo
 http://ip2121.com:8081/web1/hbo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English Movie",STAR WORLD HD (IN)
+#EXTINF:-1 tvg-id="STAR WORLD HD (IN)" tvg-logo=" " group-title="English",STAR WORLD HD (IN)
 #http://221.120.204.4/star-world-LOCKLE/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",45.Sony SAB HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Entertainment",45.Sony SAB HD
 http://221.120.204.4/SONY-SAB-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Hindi",46.Sony Entertainment HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oTt7D3K.png" group-title="Entertainment",46.Sony Entertainment HD
 http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Hindi",47.Colors HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0aWOFB9.png" group-title="Entertainment",47.Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Hindi",48.Star Plus HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AMhvwJB.png" group-title="Entertainment",48.Star Plus HD
 http://208.86.19.21:80/607.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Hindi",49.Zee TV HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SYqIRU.png" group-title="Entertainment",49.Zee TV HD
 http://208.86.19.21:80/606.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Hindi",50.& Pictures SD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UPwxT6Y.png" group-title="Movies",50.&Pictures SD
 http://208.86.19.21:80/705.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Hindi",51.Colors Cineplex HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4BBrXbC.png" group-title="Movies",51.Colors Cineplex HD
 http://208.86.19.21:80/735.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Hindi",52.Sony Max HD 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ro7bedn.png" group-title="Movies",52.Sony Max HD 
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi",53.Star Gold 2 4K
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Movies",53.Star Gold 2 4K
 http://208.86.19.21:80/709.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Hindi",54.Star Gold HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vGq343l.png" group-title="Movies",54.Star Gold HD
 http://208.86.19.21:80/717.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Hindi",55.UTV Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HmgQJGS.png" group-title="Movies",55.UTV Action
 http://144.217.70.181:9587/hin2/UTVACTION/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Hindi",56.Zee Action
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjiBQP2.png" group-title="Movies",56.Zee Action
 http://208.115.215.42/ZEE_ActIon_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Hindi",57.Zee Bolywood
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wVQwK4D.png" group-title="Movies",57.Zee Bolywood
 http://208.86.19.21:80/701.stream/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Hindi",58.Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ldXaLJK.png" group-title="Movies",58.Zee Cinema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="English",61.Animal Planet HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ti0gJR2.png" group-title="Documentary",61.Animal Planet HD
 https://durbinlive.com:443/live/jio?c=Animal_Planet_HD&q=auto&e=IshanJiotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="English",62.Discovery Science English
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XBz4I65.png" group-title="Documentary",62.Discovery Science English
 https://durbinlive.com:443/live/jio?c=Discovery_Science&q=auto&e=IshanJiotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="English",63.Discovery Turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6uHly3s.png" group-title="Documentary",63.Discovery Turbo
 http://titanicos.net:8080/live/WAYBRETV6611/WAYBRETV8812/65089.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="English",64.History Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5OzuEyR.png" group-title="Documentary",64.History Channel
 http://45.161.188.242:88/history/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",65.National Geographic HD Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",65.National Geographic HD Hindi
 http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="English",66.National Geographic HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m7Cl2M9.png" group-title="Documentary",66.National Geographic HD Bangla
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="English",67.National Geographic Wild
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MCyL9wX.png" group-title="Documentary",67.National Geographic Wild
 http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="English",68.Discovery HD Bangla
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8GG7Ny9.png" group-title="Documentary",68.Discovery HD Bangla
 https://durbinlive.com:443/live/jio?c=Discovery_Channel_Bengali&q=auto&e=IshanJiotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="English",69.TLC SD Hindi
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ELjuMyU.png" group-title="Documentary",69.TLC SD Hindi
 https://durbinlive.com:443/live/jio?c=TLC_Hindi&q=auto&e=IshanJiotv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AMiJBP6.png" group-title="English",70.& Prive HD
@@ -240,8 +259,6 @@ http://208.86.19.21:80/907.stream/index.m3u8
 #EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/1234391240679911424/_yQ3dQBz_400x400.jpg" group-title="Music",109.Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
-#EXTINF:-1,110.Astorlia news
-https://austchannel-live.akamaized.net/hls/live/2002729/austchannel-news/master.m3u8
 
-#EXTINF:-1,111.BBC News
+#EXTINF:-1 group-title="News",111.BBC News
 http://www.filmon.com/vr-streams/27.high/playlist.m3u8
