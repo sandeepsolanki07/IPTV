@@ -1,219 +1,463 @@
 #EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/id/mncvision.id.epg.xml,https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml,https://iptv-org.github.io/epg/guides/pt/meo.pt.epg.xml,https://iptv-org.github.io/epg/guides/uk/ontvtonight.com.epg.xml"
-#EXTINF:-1 tvg-id="9XJalwa.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6h83JRO.png" group-title="Music",9X Jalwa (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0nc/index.m3u8
-#EXTINF:-1 tvg-id="9XM.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fD7wLka.jpg" group-title="Music",9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 tvg-id="AajTak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/x1Y2P21.png" group-title="News",Aaj Tak (360p) [Geo-blocked]
-https://lmil.live-s.cdn.bitgravity.com/cdn-live/_definst_/lmil/live/aajtak_app.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABPAnanda.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="News",ABP Ananda (720p)
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 tvg-id="ABPAsmita.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PtKcu6K.png" group-title="News",ABP Asmita (720p)
-https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
-#EXTINF:-1 tvg-id="ABPMajha.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/GteRQ6A.png" group-title="News",ABP Majha (720p)
-https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
-#EXTINF:-1 tvg-id="AKDCalcuttaNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://calcuttanews.tv/images/cnwotag.png" group-title="News",AKD Calcutta News (540p) [Geo-blocked]
-https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8
-#EXTINF:-1 tvg-id="AmarUjala.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Amar Ujala (360p) [Not 24/7]
-https://streamcdn.amarujala.com/live/smil:stream1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Anjan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Anjan (720p) [Not 24/7]
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 tvg-id="ApnaPunjab.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Apna Punjab (720p)
-http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ArtistAloud.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Artist Aloud (1080p) [Not 24/7]
-https://live.hungama.com/linear/artist-aloud/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsBangla.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.asianetnews.com/v1/images/bangla_logo.png" group-title="News",Asianet News Bangla (360p) [Not 24/7]
-https://vidcdn.vidgyor.com/rplus-origin/rplusasianetlive/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetNewsKannada.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.asianetnews.com/v1/images/asianet_suvarna_news.png" group-title="News",Asianet News Kannada (360p) [Not 24/7]
-https://vidcdn.vidgyor.com/suvarna-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AssamTalks.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/qL5PpG7.png" group-title="Undefined",Assam Talks (240p) [Not 24/7]
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="AyushTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PWzvp0B.png" group-title="Lifestyle",Ayush TV (360p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 tvg-id="B4UKadak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/vwkjtRT.png" group-title="Movies",B4U Kadak (576p) [Not 24/7]
-http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 tvg-id="BflixMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/z3ALZQQ.jpg" group-title="Movies",Bflix Movies (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in.m3u8
-#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Z07M07j.png" group-title="Undefined",Boogle Bollywood (1080p) [Not 24/7]
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 tvg-id="BoxCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Movies",Box Cinema (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0su/index.m3u8
-#EXTINF:-1 tvg-id="Channel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://static.epg.best/in/ChannelV.in.png" group-title="Undefined" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Channel (720p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ChannelY.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Channel Y (720p) [Not 24/7]
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CNBCAwaaz.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Business",CNBC Awaaz (504p) [Not 24/7]
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="CNBCBajar.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",CNBC Bajar (504p) [Geo-blocked]
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="DDNational.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Entertainment",DD National (576p)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9ozOypJ.png" group-title="News",DD News (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCKwucPzHZ7zCUIf7If-Wo1g/live
-#EXTINF:-1 tvg-id="DDSports.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PEEELsL.png" group-title="Sports",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 tvg-id="DesiBeatsHD.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Desi Beats HD (720p)
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="DesiChannel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Desi Channel (720p)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="DesiPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Desi Plus (720p)
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Dhamaal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dhamaal_in.png" group-title="Music",Dhamaal (1080p) [Not 24/7]
-https://live.hungama.com/linear/dhamaal/playlist.m3u8
-#EXTINF:-1 tvg-id="Dhinchaak2.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/AC4ze9o.jpg" group-title="Movies",Dhinchaak 2 (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0tm/index.m3u8
-#EXTINF:-1 tvg-id="Dhinchaak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/T2c6PjU.jpg" group-title="Movies",Dhinchaak (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0o5/index.m3u8
-#EXTINF:-1 tvg-id="DilSe.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dil Se (360p) [Not 24/7]
-https://live.hungama.com/linear/dil-se/playlist.m3u8
-#EXTINF:-1 tvg-id="DishaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disha_tv.png" group-title="Undefined",Disha TV (360p) [Not 24/7]
-http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="DocuBayTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://od.lk/s/MF8yMzAxMjQ1MzBf/Docubay_750x750.png" group-title="Entertainment",DocuBay TV (1080p) [Not 24/7]
-https://docubayvh.s.llnwi.net/526a07ab-6ae7-4b6c-84a1-159791416484_1000004372_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="E24.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/VBu7r0A.png" group-title="Entertainment",E24 (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0pc/index.m3u8
-#EXTINF:-1 tvg-id="Enter10Bangla.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fkOxQtS.png" group-title="Entertainment",Enter10 Bangla (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0j5/index.m3u8
-#EXTINF:-1 tvg-id="Filmeraa.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Filmeraa (720p)
-https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FoodFood.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/J930pA1.png" group-title="Entertainment",Food Food (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0qx/index.m3u8
-#EXTINF:-1 tvg-id="GDNSLudhiana.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",GDNS Ludhiana (1080p) [Not 24/7]
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/6GcaSUS.jpg" group-title="News",Global Punjab (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1 tvg-id="GSTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/zCIK5Ze.png" group-title="Undefined",GSTV (720p) [Not 24/7]
-https://1-213-10546-44.b.cdn13.com/388656798579293628302251.m3u8
-#EXTINF:-1 tvg-id="GurSikhSabhaTV.ca" tvg-country="CA" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2EKCtQm.png" group-title="Religious",GurSikh Sabha TV (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 tvg-id="HulchulTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Hulchul TV (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
-#EXTINF:-1 tvg-id="ILove.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I Love (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0p3/index.m3u8
-#EXTINF:-1 tvg-id="IndiaNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/90tlaUn.png" group-title="News",India News (480p)
-https://m-c036-j2apps.s.llnwi.net/hls/0442.IndiaNews.in.m3u8
-#EXTINF:-1 tvg-id="IndiaToday.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/koFYddE.png" group-title="News",India Today (720p) [Not 24/7]
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 tvg-id="IndiaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/IYXrLPs.png" group-title="Undefined",India TV (480p) [Not 24/7]
-https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
-#EXTINF:-1 tvg-id="JanTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/0qNJuVP.jpg" group-title="News",Jan TV (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=http://www.youtube.com/channel/UCjmnq35TvJ1J8JZS49OPg-Q/live
-#EXTINF:-1 tvg-id="JantaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/jj/janta_tv_in.png" group-title="Undefined",Janta TV (360p) [Not 24/7]
-https://live.wmncdn.net/jantatv/live.stream/index.m3u8
-#EXTINF:-1 tvg-id="JhanjarMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" group-title="Music",Jhanjar Music (1080p) [Not 24/7]
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 tvg-id="JonackTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Jonack TV (360p) [Not 24/7]
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 tvg-id="KadakHits.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Kadak Hits (1080p) [Not 24/7]
-https://live.hungama.com/linear/kadak-hits/playlist.m3u8
-#EXTINF:-1 tvg-id="KalingaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/mwbseoN.png" group-title="Undefined",Kalinga TV (864p) [Not 24/7]
-https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="KanakNews.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/aJsISJb.png" group-title="News",Kanak News (720p) [Not 24/7]
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="KanshiTV.uk" tvg-country="UK" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jxf9gQd.jpg" group-title="Undefined",Kanshi TV (720p) [Not 24/7]
-https://live.kanshitv.co.uk/mobile/kanshitvkey.m3u8
-#EXTINF:-1 tvg-id="KhabrainAbhiTak.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/kk/khabrain_abhi_tak_in.png" group-title="Undefined",Khabrain Abhi Tak (480p) [Not 24/7]
-https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8
-#EXTINF:-1 tvg-id="LifeTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Life TV (480p) [Not 24/7]
-http://59c3ec70cfde0.streamlock.net/channel_6/channel6/playlist.m3u8
-#EXTINF:-1 tvg-id="LokSabhaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/NsQE4U1.png" group-title="Undefined",Lok Sabha TV (576p) [Not 24/7]
-https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
-#EXTINF:-1 tvg-id="MahaMovie.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/hpShFDL.png" group-title="Movies",Maha Movie (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0q7/index.m3u8
-#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2BSvBGG.png" group-title="Movies",Manoranjan Grand (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0m2/index.m3u8
-#EXTINF:-1 tvg-id="ManoranjanMovies.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7uHOyA.png" group-title="Movies",Manoranjan Movies (144p)
-https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
-#EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",Mtunes Plus (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0p2/index.m3u8
-#EXTINF:-1 tvg-id="MusicIndia.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0mt/index.m3u8
-#EXTINF:-1 tvg-id="Namdhari.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Namdhari (404p) [Not 24/7]
-https://namdhari.tv/live/sbs1.m3u8
-#EXTINF:-1 tvg-id="Nazrana.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Nazrana (720p) [Not 24/7]
-https://live.hungama.com/linear/nazrana/playlist.m3u8
-#EXTINF:-1 tvg-id="NDTVIndia.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QjJYohG.png" group-title="Undefined",NDTV India (480p) [Not 24/7]
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
-#EXTINF:-1 tvg-id="News18Assam.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 Assam (504p) [Not 24/7]
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="News18Bangla.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News18 Bangla (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 tvg-id="News18Bengali.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/lVbw2xH.png" group-title="News",News 18 Bengali (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Chhattisgarh.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Chhattisgarh (360p)
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Gujarati.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/u9RVst4.png" group-title="News",News 18 Gujarati (360p)
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Hindi.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Hindi (360p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18India.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/S0fxbjy.png" group-title="News",News18 India (504p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="News18Jharkhand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Jharkhand (360p)
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Lokmat.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jUxXjTt.png" group-title="Undefined",News18 Lokmat (504p)
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 tvg-id="News18Malayalam.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/D9lMLmX.png" group-title="News",News 18 Malayalam (360p)
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Odia.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/fGetI6C.png" group-title="News",News 18 Odia (360p)
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Punjab.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Punjab (360p)
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Rajasthan.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/jsNaozG.png" group-title="News",News 18 Rajasthan (360p)
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Urdu.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Spri9X3.png" group-title="News",News 18 Urdu (360p)
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News18Uttarakhand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",News 18 Uttarakhand (360p)
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 tvg-id="News24.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/QwRbYt0.png" group-title="News",News 24 (480p) [Not 24/7]
-https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/playlist.m3u8
-#EXTINF:-1 tvg-id="NextTVMalabar.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://cdn.statically.io/img/nexttv.in/f=auto%2Cw=160/assets/images/toplogo-2.png?v=1" group-title="Undefined",Next TV Malabar (720p) [Not 24/7]
-https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PopPataka.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Pop Pataka (480p) [Not 24/7]
-https://live.hungama.com/linear/pop-pataka/playlist.m3u8
-#EXTINF:-1 tvg-id="PramayaNews7.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="News",Pramaya News7 (576p) [Not 24/7]
-https://live.mycast.in/encode/ee0c5a36ff5a7083ee044991974ad3ba.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="PratidinTime.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gUEpVvR.png" group-title="News",Pratidin Time (360p) [Not 24/7]
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
-#EXTINF:-1 tvg-id="PunjabiZindabad.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Punjabi Zindabad (360p) [Not 24/7]
-http://stream.pztv.online/pztv/playlist.m3u8
-#EXTINF:-1 tvg-id="RepublicTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/PvI2PCX.png" group-title="Undefined",Republic TV [Geo-blocked]
-https://weblive.republicworld.com/liveorigin/republictv/playlist.m3u8
-#EXTINF:-1 tvg-id="SadaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Sada TV (1080p) [Not 24/7]
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 tvg-id="ShemarooTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/UNNcOef.png" group-title="Entertainment",Shemaroo TV (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0nh/index.m3u8
-#EXTINF:-1 tvg-id="Shraddha.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Shraddha (360p) [Not 24/7]
-http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
-#EXTINF:-1 tvg-id="Shubhsandesh.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/ibnqDAD.png" group-title="Religious",Shubhsandesh (720p) [Not 24/7]
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 tvg-id="SriSankara.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Religious",Sri Sankara (360p) [Not 24/7]
-https://8noro432dm6g-hls-live.wmncdn.net/Sri/a5518065f47332dad6b509920c827474.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="StarCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Movies",Star Cinema (576p)
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1 tvg-id="StarFamily.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Family",Star Family (576p)
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
-#EXTINF:-1 tvg-id="StarPlusHD.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Hgl0JGO.png" group-title="Undefined" user-agent="stream",Star Plus HD (720p) [Geo-blocked]
-#EXTVLCOPT:http-user-agent=stream
-http://208.115.215.42/Utsav_Plus_HD/playlist.m3u8
-#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/5r4gCMh.jpg" group-title="Music",Steelbird Music (720p) [Not 24/7]
-http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="SubRangTV.us" tvg-country="US" tvg-language="Hindi" tvg-logo="https://i.imgur.com/xMN1q8P.jpg" group-title="News",SubRang TV (720p) [Not 24/7]
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="SwarajExpress.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Swaraj Express (720p) [Not 24/7]
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1 tvg-id="TAGTV.ca" tvg-country="CA" tvg-language="Hindi" tvg-logo="https://i.imgur.com/4PA2adF.png" group-title="Undefined",TAG TV (1080p) [Not 24/7]
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TAGTV.us" tvg-country="US" tvg-language="Hindi" tvg-logo="https://i.imgur.com/9vosZt4.jpg" group-title="News",TAG TV (1080p) [Not 24/7]
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-#EXTINF:-1 tvg-id="TimesNow.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/Times_Now_2010.png" group-title="News",Times Now (480p) [Geo-blocked]
-https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
-#EXTINF:-1 tvg-id="UtsavGold.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/FYym7gH.png" group-title="Movies",Utsav Gold (720p) [Geo-blocked]
-http://208.115.215.42/Utsav_Gold_HD/index.m3u8
-#EXTINF:-1 tvg-id="WowCinemaOne.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/s690F67.png" group-title="Movies",Wow Cinema One (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0n3/index.m3u8
-#EXTINF:-1 tvg-id="XploreChannel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Undefined",Xplore Channel (720p)
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/CdXieB6.png" group-title="Undefined",Zee Bioskop (360p) [Geo-blocked]
-http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 tvg-id="ZeeCinemaUK.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.meo.pt/PublishingImages/canais/zee-cinema.png" group-title="Undefined",Zee Cinema UK (576p) [Geo-blocked]
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/playlist.m3u8
+#EXTINF:-1,9x Tashan
+rtsp://46.249.213.93/broadcast/9xmtashan-tablet.3gp
+#EXTINF:-1,asianet-middle-east-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,asianet-movies-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia15.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,asianet-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia0.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,B4U
+rtsp://46.249.213.87/broadcast/b4u-tablet.3gp
+#EXTINF:-1,BOLLYWOOD ACTION 2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1,BOLLYWOOD CINEMA
+rtsp://46.249.213.87/broadcast/bollywoodcinema1-tablet.3gp
+#EXTINF:-1,BOLLYWOOD CINEMA 2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1,Bollywood Gossip
+rtsp://46.249.213.87/broadcast/bollywoodgossip-tablet.3gp
+#EXTINF:-1,BOLLYWOOD HUNGAMA
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1,Bollywood Independent Cinema
+rtsp://46.249.213.93/broadcast/indianstudentcinema-tablet.3gp
+#EXTINF:-1,bollywoodaction2
+rtsp://46.249.213.87/broadcast/bollywoodaction2-tablet.3gp
+#EXTINF:-1,bollywoodcinema2
+rtsp://46.249.213.87/broadcast/bollywoodcinema2-tablet.3gp
+#EXTINF:-1,bollywoodhungama
+rtsp://46.249.213.87/broadcast/bollywoodhungama-tablet.3gp
+#EXTINF:-1,DAAI TV
+rtsp://cdn.mivo.tv/mivotvjkt/daaitv2
+#EXTINF:-1,Dawn News
+rtsp://dawnstream.hostingmadeeasy.com/dawn
+#EXTINF:-1,Films of India
+rtsp://46.249.213.93/broadcast/filmsofindia-tablet.3gp
+#EXTINF:-1,GEM BOLLYWOOD
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-gembollywood-live-25f-16x9-HD?ref=www.gemonline.tv&USER=Gem+Bollywood
+#EXTINF:-1,GEM LİFE1
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-life1-live-25f-16x9-HD?ref=www.gemonline.tv&USER=LIFE1
+#EXTINF:-1,GEM MİFA
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-mifa-live-16x9-HD?ref=www.gemonline.tv&USER=MIFA+MUSIC
+#EXTINF:-1,GEM ONYX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-onyx-live-16x9-HD?ref=www.gemonline.tv&USER=ONYX
+#EXTINF:-1,GEM RİVER
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-river-live-16x9-HD?ref=www.gemonline.tv&USER=River+HD
+#EXTINF:-1,GEM RUBİX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:-1,GEM RUBİX
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-rubix-live-16x9-HD?ref=www.gemonline.tv&USER=RUBIX+HD
+#EXTINF:-1,GEM TRAVEL
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-travel-live-25f-16x9-HD?ref=www.gemonline.tv&USER=TRAVEL
+#EXTINF:-1,GEM0-100
+rtmp://gemtv.fms.visionip.tv/live/gemtv-gemtv-0100-live-25f-16x9-HD?ref=www.gemonline.tv&USER=0-100
+#EXTINF:-1,Global TV (Thaherq)
+rtsp://cdn.mivo.tv/mivotvjkt/globaltv2
+#EXTINF:-1,Hindi Movies
+rtsp://46.249.213.93/broadcast/hindimovies-tablet.3gp
+#EXTINF:-1,indiavision-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=hmtv1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,manorama-news-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=maha1.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,mathrubhumi-news/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia10.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,mazhavil-manorama-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=maha2.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,mediaone-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia17.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,MHARISHI CHANNEL
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1,MIVO TV
+rtsp://cdn.mivo.tv/mivotvjkt/mivotv_480p
+#EXTINF:-1,MNC TV
+rtsp://cdn.mivo.tv/mivotvjkt/mnctv2
+#EXTINF:-1,ND TV
+http://bglive-a.bitgravity.com/ndtv/247hi/live/native
+#EXTINF:-1,NDTV 24x7
+http://bglive-a.bitgravity.com/ndtv/247lo/live/native
+#EXTINF:-1,NDTV India
+http://bglive-a.bitgravity.com/ndtv/indlo/live/native
+#EXTINF:-1,NDTV Profit
+http://bglive-a.bitgravity.com/ndtv/prolo/live/native
+#EXTINF:-1,RCTI TV
+rtsp://cdn.mivo.tv/mivotvjkt/rcti2
+#EXTINF:-1,reporter-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.251/base2 playpath=asia5.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,shalom-tv-live/
+rtmp://$OPT:rtmp-raw=rtmp://50.7.175.243/base2 playpath=asia16.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=1 pageUrl=http://www.turbotv.in//HasBahCa/HasBahCa_IPTV.php
+#EXTINF:-1,Sony SAB TV
+rtsp://46.249.213.93/broadcast/sonysabtv-tablet.3gp
+#EXTINF:-1,Tamil lotusnews
+rtmp://$OPT:rtmp-raw=rtmp://live.wmncdn.net/lotus/ playpath=25526e8cfa035fc30910e40b3f2e4348.sdp swfUrl=http://player-emea-uk.webmobilive.com/player/liveplayer.swf live=1 pageUrl=http://livetvchannelsfree.com/lotusnews.html
+#EXTINF:-1,Tamil vasanthamtv
+rtmp://$OPT:rtmp-raw=rtmp://mediacp2.comcities.com:1935/itn-vasantham playpath=itn-vasantham swfUrl=http://cdn.itnlanka.com/vasanthamtv.swf live=1 pageUrl=http://livetvchannelsfree.com/vasanthamtv.html
+#EXTINF:-1,TRANS TV
+rtsp://cdn.mivo.tv/mivotvjkt/transtv2
+#EXTINF:-1,TV ONE
+rtsp://cdn.mivo.tv/mivotvjkt/tvone2
+#EXTINF:-1,Vasanth TV(Tamil)
+http://vasanth.live.cdn.bitgravity.com/vasanth/secure/live/feed02?e=0%26h=a9be0836bc39f96d0a9a958a659dfc1d%26bgsecuredir=1
+#EXTINF:-1,***HasBahCa IPTV***ASYA-ASIEN-ASIA***
+http://01.gen.tr/HasBahCa_IPTV/turkiye.mp4
+#EXTINF:-1,ACTS Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7AFA3E0A91BF4CDCA51C0A5344FD99DC
+#EXTINF:-1,Al Jazeera
+http://103.13.228.157/streamlink.m3u8?channel_id=EA4C9D2666BC411D8E6777E8A1D2B747
+#EXTINF:-1,AMARIN activ TV
+http://103.13.228.157/streamlink.m3u8?channel_id=5A84DB6569AB4EDD9CED59E0D3A620E5
+#EXTINF:-1,Amarin HD
+http://103.13.228.157/streamlink.m3u8?channel_id=78f57ebcf6064b308d75208a20756983
+#EXTINF:-1,Animax
+http://103.13.228.157/streamlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+#EXTINF:-1,Asia Update
+http://103.13.228.157/streamlink.m3u8?channel_id=6d5587cf7ce94cd8a7477775b7ddc253
+#EXTINF:-1,ASTV NEWS 1
+http://103.13.228.157/streamlink.m3u8?channel_id=31dbe17e0c1b4c8684200f83b85b007b
+#EXTINF:-1,B4U Music India
+http://103.13.228.157/streamlink.m3u8?channel_id=81ff107849124ff389814b0b8816b1ba
+#EXTINF:-1,Baby TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
+#EXTINF:-1,Bang Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=45607BB280464483896716F7FA17B4D2
+#EXTINF:-1,Bangkok Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=26FE491F794F4497AC96BC1571A705BC
+#EXTINF:-1,BIG
+http://103.13.228.157/streamlink.m3u8?channel_id=ab0b43ef8363438098a94101e93ca138
+#EXTINF:-1,Biography Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+#EXTINF:-1,Biography HD (BIO)
+http://103.13.228.157/streamlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+#EXTINF:-1,Bluesky Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=76221348029846b6a86cce2f76e60f82
+#EXTINF:-1,Boomerang
+http://103.13.228.157/streamlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
+#EXTINF:-1,Bright TV
+http://103.13.228.157/streamlink.m3u8?channel_id=89264a79a72b48eeb90f3fde7ae13740
+#EXTINF:-1,Cartoon Club
+http://103.13.228.157/streamlink.m3u8?channel_id=860605f7e16d4c6cacef72ef02ffa2c1
+#EXTINF:-1,Cartoonito HD
+http://103.13.228.157/streamlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+#EXTINF:-1,CCTV News
+http://103.13.228.157/streamlink.m3u8?channel_id=0ed1c715dc864ab3912d4015903a3d85
+#EXTINF:-1,CCTV-4
+http://103.13.228.157/streamlink.m3u8?channel_id=5289381709e64f8db14a4ed75ab2b59f
+#EXTINF:-1,CCTV-9 Documentary
+http://103.13.228.157/streamlink.m3u8?channel_id=b08a8052e6724bedba5399f662715ad1
+#EXTINF:-1,Celestial Classic Movie
+http://103.13.228.157/streamlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
+#EXTINF:-1,CH 2 STAR MAX Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=4E38ED2FA4DD43999828EAB81196DEFF
+#EXTINF:-1,CH 3 Family
+http://103.13.228.157/streamlink.m3u8?channel_id=93d89e479ef9499a9c1ddc36b85e4190
+#EXTINF:-1,CH 3 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=a4485b656d764f308c63b14a8bf62326
+#EXTINF:-1,CH 3 Original
+http://103.13.228.157/streamlink.m3u8?channel_id=8BAD9F20FF2246B894EDDCED10DCFDEB
+#EXTINF:-1,CH 3 SD
+http://103.13.228.157/streamlink.m3u8?channel_id=0296e16fac6149ed99004125f37fa2e4
+#EXTINF:-1,CH 5
+http://103.13.228.157/streamlink.m3u8?channel_id=20769e00d2a44f6b9c581c98c8c70fea
+#EXTINF:-1,CH 5 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1D92193B11FE490B8C67D0A88BEE3FD6
+#EXTINF:-1,CH 7 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=ddfa47e726444446864b14e0e819fdde
+#EXTINF:-1,CH 8
+http://103.13.228.157/streamlink.m3u8?channel_id=15c52eeb21b748319771eb794a6cf242
+#EXTINF:-1,Chalermkrung
+http://symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8
+#EXTINF:-1,Chalermkrung
+http://symphony.live-s.cdn.bitgravity.com/cdn-live/_definst_/symphony/live/feed04/playlist.m3u8
+#EXTINF:-1,Channel M HD
+http://103.13.228.157/streamlink.m3u8?channel_id=8237601ce3ea4bae8332ebb0d88dba87
+#EXTINF:-1,Channel News Asia
+http://103.13.228.157/streamlink.m3u8?channel_id=018d9f65365a4744b2c8222ca1d54be9
+#EXTINF:-1,Channel V China
+http://103.13.228.157/streamlink.m3u8?channel_id=9102f3553f3246ecbbc9738dd4803344
+#EXTINF:-1,Channel V India
+http://103.13.228.157/streamlink.m3u8?channel_id=09cac500285d42ec97465b2219db5f53
+#EXTINF:-1,Channel V International
+http://103.13.228.157/streamlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102
+#EXTINF:-1,Comedy Central HD
+http://103.13.228.157/streamlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+#EXTINF:-1,Crime and Investigation (CI)
+http://103.13.228.157/streamlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
+#EXTINF:-1,Dara Daily
+http://103.13.228.157/streamlink.m3u8?channel_id=1E2B9312FC384567AC6A12E650D8796A
+#EXTINF:-1,Deutsche Welle
+http://103.13.228.157/streamlink.m3u8?channel_id=6DE1E752A9974A5980166483C8ED6BB8
+#EXTINF:-1,DISTINQUISHED
+rtmp://lm01.everyon.tv:1935/ptv/pld639
+#EXTINF:-1,DMC
+http://103.13.228.157/streamlink.m3u8?channel_id=326A1BC675A843488B0B4D69B4F75246
+#EXTINF:-1,Dude TV
+http://103.13.228.157/streamlink.m3u8?channel_id=2EE9E13BB4E442D29F7E3E858E8222E7
+#EXTINF:-1,Edge HD
+http://103.13.228.157/streamlink.m3u8?channel_id=3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1,ESTRADIOL TV
+rtmp://lm01.everyon.tv:1935/ptv/pld197
+#EXTINF:-1,ETC
+http://103.13.228.157/streamlink.m3u8?channel_id=dcf0d550815947f3bacaf3521e118124
+#EXTINF:-1,ETV
+http://103.13.228.157/streamlink.m3u8?channel_id=dbab2fe24ce643689045d3c81e1954d6
+#EXTINF:-1,Euronews
+http://103.13.228.157/streamlink.m3u8?channel_id=3F35C4428A0D4004A38FF0ADBA7664F4
+#EXTINF:-1,Fan TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=345A4277DD864037B6B4FB5A562AF59C
+#EXTINF:-1,Farm Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=817C9A06488C4FF7BC8D505038A7652A
+#EXTINF:-1,Fashion TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=91fbba1d5af544ac92a2c64e5d177e9d
+#EXTINF:-1,Fox Crime HD
+http://103.13.228.157/streamlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+#EXTINF:-1,Fox News
+http://103.13.228.157/streamlink.m3u8?channel_id=1e2041858ca543fa90ec95d28197e907
+#EXTINF:-1,France 24
+http://103.13.228.157/streamlink.m3u8?channel_id=82C764AA2D7F42579348B8717CB5B9A4
+#EXTINF:-1,FX HD
+http://103.13.228.157/streamlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+#EXTINF:-1,Gang Cartoon
+http://103.13.228.157/streamlink.m3u8?channel_id=7299670a140849a9aaf946b0302ad886
+#EXTINF:-1,Grand Prix Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=e05107e8304b4d118c92b5dffa636715
+#EXTINF:-1,Green Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7454994CEF7F464F9BF8E4331EE83902
+#EXTINF:-1,GTV
+rtmp://lm01.everyon.tv:1935/ptv/pld44
+#EXTINF:-1,GWE
+http://103.13.228.157/streamlink.m3u8?channel_id=a9ac34e4c6d84d529ded903c6917bb94
+#EXTINF:-1,Havoc 247 HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1cc4029ae4ab4a27881f2e83db3fde08
+#EXTINF:-1,HUZHOU ENTERTAINMENT CHANNEL mms wmv
+mms://live.hugd.com/whyl.wmv
+#EXTINF:-1,HUZHOU NEWS mms wmv
+mms://live.hugd.com/xwzh.wmv
+#EXTINF:-1,HUZHOU PUBLIC CHANNEL mms wmv
+mms://live.hugd.com/ggms.wmv
+#EXTINF:-1,IN TV
+http://103.13.228.157/streamlink.m3u8?channel_id=A5E2F72AC54E4C3489AE8F272F044999
+#EXTINF:-1,INDONESIA:Berita Satu English HD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu English SD
+http://beritasatulive-lh.akamaihd.net/i/b1english_1@50428/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu News HD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu News SD
+http://beritasatulive-lh.akamaihd.net/i/b1news_1@47648/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu Sport HD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu Sport SD
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_360_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu World HD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_720_av-p.m3u8
+#EXTINF:-1,INDONESIA:Berita Satu World SD
+http://beritasatulive-lh.akamaihd.net/i/b1world_1@38149/index_360_av-p.m3u8
+#EXTINF:-1,ITV Choice
+http://103.13.228.157/streamlink.m3u8?channel_id=e36b99bcd26648af9db2261785c77b7a
+#EXTINF:-1,JCTV
+http://nstream.trinetsolutions.com/wmedia-live/tbn/8032/300_tbn-jctv_050222.asx
+#EXTINF:-1,JKN
+http://103.13.228.157/streamlink.m3u8?channel_id=FC8195DC989240348772D00DD9EBA3D0
+#EXTINF:-1,K-Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=e779ab60cd294e9ca2f3661b7709a286
+#EXTINF:-1,KidsCo
+http://103.13.228.157/streamlink.m3u8?channel_id=fdaede40b27445ac893189bc6332c914
+#EXTINF:-1,Kix
+http://103.13.228.157/streamlink.m3u8?channel_id=e584e0adae6440eab366f5fe3a824f91
+#EXTINF:-1,LOCA
+http://103.13.228.157/streamlink.m3u8?channel_id=80AAD4DD6E424C14921832300C74A202
+#EXTINF:-1,M Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=97f3052bec96482584c5de84dda0d745
+#EXTINF:-1,Major Channel Asian
+http://103.13.228.157/streamlink.m3u8?channel_id=99DB2ADD23B447F696B0EFFD5EE4EBF4
+#EXTINF:-1,Major Channel MIX
+http://103.13.228.157/streamlink.m3u8?channel_id=AB6ACB38607A4AFF9DC773A6772C91FC
+#EXTINF:-1,Matial Arts Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=0d9fc0134f2143148e57461d69180d13
+#EXTINF:-1,MCOT Family
+http://103.13.228.157/streamlink.m3u8?channel_id=2e1f1aff8eaf4a88b4c69a7da5487566
+#EXTINF:-1,MCOT HD
+http://103.13.228.157/streamlink.m3u8?channel_id=3AE2FD6CCAF6499E898DE377ED74EA12
+#EXTINF:-1,MGTV
+http://103.13.228.157/streamlink.m3u8?channel_id=0518392DC56246E1808C211C796D5E84
+#EXTINF:-1,MHARISHI CHANNEL
+rtsp://streaming.mou.org/videodialup
+#EXTINF:-1,Miracle TV
+http://103.13.228.157/streamlink.m3u8?channel_id=25713D0629F148ADBFEDBDF4284AFB09
+#EXTINF:-1,Miti4
+http://103.13.228.157/streamlink.m3u8?channel_id=D2DC7D7F3D234B5A9EF526E2FC16FB7B
+#EXTINF:-1,Modern 9
+http://103.13.228.157/streamlink.m3u8?channel_id=3764586b28544a0fa379b1d4e400c100
+#EXTINF:-1,Modern TV
+http://103.13.228.157/streamlink.m3u8?channel_id=C9551CA2C2284826B6AEB398824F3A18
+#EXTINF:-1,Money Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=f902199d513449e6a51ce477508b1246
+#EXTINF:-1,Mongkol Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=FCC2F9D7000747D5A55680D8EBA2B3EF
+#EXTINF:-1,Mono 29
+http://103.13.228.157/streamlink.m3u8?channel_id=fd23603db67344c69a8304a2fca268cd
+#EXTINF:-1,Motorvision HD
+http://103.13.228.157/streamlink.m3u8?channel_id=4c2ebe80b19049deac5ad59b478a79ac
+#EXTINF:-1,MSNBC HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7f2989e3f87e4efdb36bac56b64dca62
+#EXTINF:-1,MTV Asia
+http://103.13.228.157/streamlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+#EXTINF:-1,MTV China
+http://103.13.228.157/streamlink.m3u8?channel_id=deb56e700dbc4d9ea5af08e9d300a675
+#EXTINF:-1,MTV Live HD
+http://103.13.228.157/streamlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+#EXTINF:-1,Music HD
+http://103.13.228.157/streamlink.m3u8?channel_id=6419c83b42934de3a333c5a32737b559
+#EXTINF:-1,MYJAVA
+rtmp://s1.media-planet.sk:80/live/myjava1
+#EXTINF:-1,Nat Geo Music HD
+http://103.13.228.157/streamlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22
+#EXTINF:-1,Nat Geo People HD
+http://103.13.228.157/streamlink.m3u8?channel_id=7ad09373f65c48d5bb6aa6c3b2ca519a
+#EXTINF:-1,Nat Geo Wild HD
+http://103.13.228.157/streamlink.m3u8?channel_id=607fa33938bc4a3ea6c43ce47ddb8ed8
+#EXTINF:-1,Nation Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=A5B25476119B46F5B5A34D56F7D1156C
+#EXTINF:-1,NBT
+http://103.13.228.157/streamlink.m3u8?channel_id=47105F5B5ACC488FB43354F6FA3142C1
+#EXTINF:-1,NBT (Digital)
+http://103.13.228.157/streamlink.m3u8?channel_id=ce9a1585f45d4379970b95308df3f879
+#EXTINF:-1,new)tv
+http://103.13.228.157/streamlink.m3u8?channel_id=0d01fdc1362f427ca5527c645f5f908f
+#EXTINF:-1,NHK World
+http://103.13.228.157/streamlink.m3u8?channel_id=cd25fccffa6f4a2f8d7190d3e8907440
+#EXTINF:-1,Nick Jr
+http://103.13.228.157/streamlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
+#EXTINF:-1,NOW
+http://103.13.228.157/streamlink.m3u8?channel_id=732ace1b4983472097eedb0d415dc231
+#EXTINF:-1,ONE
+http://103.13.228.157/streamlink.m3u8?channel_id=7e069540a35942e89245865a84add64a
+#EXTINF:-1,Outdoor Channel HD
+http://103.13.228.157/streamlink.m3u8?channel_id=1c551f42019d40e8acf32e8218ef8703
+#EXTINF:-1,PAKISTAN MADANI CHANNEL
+http://108.168.128.203/live/myStream/hasbahca.m3u8
+#EXTINF:-1,Play Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=7FFD465083064140836E6E8B2415AD19
+#EXTINF:-1,POP
+http://103.13.228.157/streamlink.m3u8?channel_id=5389167315DC4A619ED5BC72F66A1C4F
+#EXTINF:-1,PPTV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=623d009180394c528880c14e2254452a
+#EXTINF:-1,RUTV1
+http://103.13.228.157/streamlink.m3u8?channel_id=775457ad94714d54bb7b065a46722a10
+#EXTINF:-1,RUTV2
+http://103.13.228.157/streamlink.m3u8?channel_id=a14c037d82434032ad04fec7e6743961
+#EXTINF:-1,Sabaidee TV
+http://103.13.228.157/streamlink.m3u8?channel_id=B9BEDB1B0539456DBC84542CF2EBCA7B
+#EXTINF:-1,SAFE TV
+rtmp://lm02.everyon.tv:1935/ptv2/pld109
+#EXTINF:-1,Sahara Samay
+http://103.13.228.157/streamlink.m3u8?channel_id=ef46ba5648314d5c9979db03a5307a50
+#EXTINF:-1,Sahara Samay Madhya Pradesh
+http://103.13.228.157/streamlink.m3u8?channel_id=304d812ce66a44a7a7eea2fe10dc9d1e
+#EXTINF:-1,Saranair Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=BB8F0DEBA37F4F3A8D0BD0DE1656852F
+#EXTINF:-1,SCTV
+rtsp://cdn.mivo.tv/mivotvjkt/sctv2
+#EXTINF:-1,SET – Sony Entertainment Television
+http://103.13.228.157/streamlink.m3u8?channel_id=bd30e27f1c48430ba2104548a1b124ca
+#EXTINF:-1,Sky News HD
+http://103.13.228.157/streamlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff
+#EXTINF:-1,SMM TV
+http://103.13.228.157/streamlink.m3u8?channel_id=48cac6380caf4f078eafccc63804ac23
+#EXTINF:-1,Spring News
+http://103.13.228.157/streamlink.m3u8?channel_id=1AE0F87662C248D693D2EED30B698760
+#EXTINF:-1,STAR Chinese Movies HD
+http://103.13.228.157/streamlink.m3u8?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+#EXTINF:-1,STAR Chinese Movies Legend
+http://103.13.228.157/streamlink.m3u8?channel_id=c8233976dbba4a06a101780907447375
+#EXTINF:-1,Star Gold
+http://103.13.228.157/streamlink.m3u8?channel_id=53c2bf7e52a44fd8b6df7f9e83891bbc
+#EXTINF:-1,Star Plus
+http://103.13.228.157/streamlink.m3u8?channel_id=7c75ad89c1cc417aa0f066133c0a2333
+#EXTINF:-1,Star World HD
+http://103.13.228.157/streamlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1,SUN CHANNEL
+http://103.13.228.157/streamlink.m3u8?channel_id=ce4efc6a833f424f8d6cdcad5573f369
+#EXTINF:-1,SUVARNA TV
+rtsp://cdn.m.yupptv.tv/liveorigin/suvarna1
+#EXTINF:-1,SVBC
+rtsp://cdn.m.yupptv.tv/liveorigin/svbc1
+#EXTINF:-1,Syfy
+http://103.13.228.157/streamlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+#EXTINF:-1,T Sports Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=3EE1E656D6AE417A914743328D44F20F
+#EXTINF:-1,Ten Cricket
+http://103.13.228.157/streamlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
+#EXTINF:-1,TGN
+http://103.13.228.157/streamlink.m3u8?channel_id=e362c185f33d4e2d8ae8921cbff3ca4e
+#EXTINF:-1,TGN1
+http://103.13.228.157/streamlink.m3u8?channel_id=9782e7e7da814652a62cfca2f97f781a
+#EXTINF:-1,Thai Chaiyo
+http://103.13.228.157/streamlink.m3u8?channel_id=a2ca06da9478412e9501d968e31bbf75
+#EXTINF:-1,Thai TV (THV)
+http://103.13.228.157/streamlink.m3u8?channel_id=bfee35dc7917423eb68fc3e5edaaae64
+#EXTINF:-1,ThaiPBS
+http://103.13.228.157/streamlink.m3u8?channel_id=D7182FAE6E9F4D929BDB5AE06059BDA8
+#EXTINF:-1,Thairath TV
+http://103.13.228.157/streamlink.m3u8?channel_id=b1bc90419ccb4885bb0b544bb2b8ee83
+#EXTINF:-1,Thairath TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=5f59a04ad28d4d839674f27e5834971f
+#EXTINF:-1,The Africa Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=eea31a4e48aa4d51a4ce8cdaa1c3a957
+#EXTINF:-1,Thrill
+http://103.13.228.157/streamlink.m3u8?channel_id=c316ed9333e54442b25077f0bb3cc269
+#EXTINF:-1,T-News Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=bcc7d0600c9943f2a1114f5749d180e8
+#EXTINF:-1,TNN 24
+http://103.13.228.157/streamlink.m3u8?channel_id=77774220bb8e40aa94e549e29ff3ed8a
+#EXTINF:-1,TOMATO TV
+rtmp://etomatofms2.hscdn.com/etomato.dvr/mp4:etomato
+#EXTINF:-1,TOT Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=360304543ea24956a78f9ba83edba1c0
+#EXTINF:-1,Trace Urban TV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=69ebf00065494dc39a3911c7d1eb9d71
+#EXTINF:-1,Travel Channel International
+http://103.13.228.157/streamlink.m3u8?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+#EXTINF:-1,TRUE4U
+http://103.13.228.157/streamlink.m3u8?channel_id=9ece9059930d4331a3d445f96fb30dff
+#EXTINF:-1,TV Muslim
+http://103.13.228.157/streamlink.m3u8?channel_id=59B6733E43BA4F93AA90A2B58FD77705
+#EXTINF:-1,Universal Channel
+hthttp://103.13.228.157/streamlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+#EXTINF:-1,Variety NEWS Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=CF984F0C8B6444B49C9C05273A59CFE4
+#EXTINF:-1,Vetee Thai
+http://103.13.228.157/streamlink.m3u8?channel_id=768AB5CAF16E44689C3A75E6A3F57B5C
+#EXTINF:-1,Voice TV
+http://103.13.228.157/streamlink.m3u8?channel_id=B29F0E7ADA6348C6851BAD32728A6DDB
+#EXTINF:-1,WBTV – Warner Bros Television
+http://103.13.228.157/streamlink.m3u8?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
+#EXTINF:-1,WeTV HD
+http://103.13.228.157/streamlink.m3u8?channel_id=dea34fa045074639b3a18123d4b4eda0
+#EXTINF:-1,White Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=d0a4c5741f014d0481accc31aeb33baa
+#EXTINF:-1,Workpoint TV
+http://103.13.228.157/streamlink.m3u8?channel_id=a9a68ab5471d4d39ba25695a66957067
+#EXTINF:-1,WORLD EVENTS TV
+rtmp://lm01.everyon.tv:1935/ptv/pld389
+#EXTINF:-1,YATEEM TV
+http://103.13.228.157/streamlink.m3u8?channel_id=7d11f01b76514ef199d4974e0a14194c
+#EXTINF:-1,You Channel
+http://103.13.228.157/streamlink.m3u8?channel_id=8E959F5D739D497C95FAA31B3A810DD6
+#EXTINF:-1,You2Play
+http://103.13.228.157/streamlink.m3u8?channel_id=2ABFE809BF0448E08159EF7057CA00D4
+#EXTINF:-1,Z:Zee Classic
+http://103.13.228.157/streamlink.m3u8?channel_id=e2f5c5390bbb4e2781454f3f32add81c
+#EXTINF:-1,Zaa Network HD
+http://103.13.228.157/streamlink.m3u8?channel_id=9623847065ba466e90632cf686fade0b
+#EXTINF:-1,Zee Business
+http://103.13.228.157/streamlink.m3u8?channel_id=04c8c255153b4272a1a0ef19ff3236f1
+#EXTINF:-1,Zee Cinema
+http://103.13.228.157/streamlink.m3u8?channel_id=18560c96b9f446bb87acb8981a2fe9c5
+#EXTINF:-1,Zee News
+http://103.13.228.157/streamlink.m3u8?channel_id=7d1847a9b91246b8af20629bfc24d9da
+#EXTINF:-1,Zee TV
+http://103.13.228.157/streamlink.m3u8?channel_id=8be5e8787848472089925a7bb7f43ef1
+#EXTINF:-1,Zing
+http://103.13.228.157/streamlink.m3u8?channel_id=3e30590edd7940e29335d243342fc6b0
+#EXTINF:-1,ZUGLO TV mms
+mms://stream01.gtk.hu/zuglotv_live
